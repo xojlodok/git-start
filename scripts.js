@@ -1,3 +1,4 @@
 $(function (){
-    console.log("YES")
+    console.log("YES");
+    let data = $('#data').val();
 });
